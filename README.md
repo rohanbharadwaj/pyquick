@@ -1,6 +1,8 @@
 pyquick
 =======
 
+link for notes doc
+https://docs.google.com/document/d/1L2zHtovCJU-yKml74QyuWYYKYi-La0OHOqi_RE7qR5Q/edit?usp=sharing
 
 Exercise programs of Googles python tutorial
 
